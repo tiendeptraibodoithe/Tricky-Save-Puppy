@@ -1,0 +1,48 @@
+{
+  "ignores": [
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleAudio.cs",
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModulePhysics.cs",
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModulePhysics2D.cs",
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleSprite.cs",
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleUI.cs",
+    "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleUnityVersion.cs"
+  ],
+  "groups": [
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleAudio.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleEPOOutline.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModulePhysics.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModulePhysics2D.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleSprite.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleUI.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleUnityVersion.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/DOTween_1_2_705/Modules/DOTweenModuleUtils.cs"
+    ],
+    [
+      "D:/Unity/Tricky Save Puppy/LunaTemp/stage3/processed-scripts/Assets/Scripts/FrameAnimator.cs"
+    ],
+    [
+      "C:/Users/Gland.vn/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/Gland.vn/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/Gland.vn/Downloads/7.1.0/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}
