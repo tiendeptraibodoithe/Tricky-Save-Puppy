@@ -77,26 +77,31 @@ public class GameManager : MonoBehaviour
         // ===== ĐÚNG: Thang + Chàng trai = THẮNG =====
         if (itemID == "Ladder" && zoneID == "Boy")
         {
+            itemLadder.gameObject.SetActive(false);
             StartCoroutine(ExecuteWin());
         }
         // ===== SAI: Cưa + Cành cây =====
         else if (itemID == "Saw" && zoneID == "TreeBranch")
         {
+            itemSaw.gameObject.SetActive(false);
             StartCoroutine(ExecuteSawTree());
         }
         // ===== SAI: Vợt muỗi + Cô gái =====
         else if (itemID == "Swatter" && zoneID == "Girl")
         {
+            itemSwatter.gameObject.SetActive(false);
             StartCoroutine(ExecuteSwatter());
         }
         // ===== SAI: Thùng sơn + Cô gái =====
         else if (itemID == "Bucket" && zoneID == "Girl")
         {
+            itemBucket.gameObject.SetActive(false);
             StartCoroutine(ExecuteBucket());
         }
         // ===== SAI: Tạ + Chàng trai =====
         else if (itemID == "Dumbbell" && zoneID == "Boy")
         {
+            itemDumbbell.gameObject.SetActive(false);
             StartCoroutine(ExecuteDumbbell());
         }
         // ===== Kéo nhầm chỗ =====
